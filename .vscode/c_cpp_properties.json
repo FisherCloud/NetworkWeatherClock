@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/fishercloud/.arduino15/packages/esp32/tools/**",
+                "/home/fishercloud/.arduino15/packages/esp32/hardware/esp32/1.0.4/**",
+                "/home/fishercloud/Arduino/libraries/**",
+                "/home/fishercloud/Arduino/libraries/ArduinoJson/src"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
